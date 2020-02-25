@@ -4,18 +4,23 @@ using Toybox.System;
 using Toybox.Lang;
 using Toybox.Application;
 
-
 class LowEnergyFace2View extends WatchUi.WatchFace {
 
-
+	var dataReader;
+	const imageFont = Application.loadResource(Rez.Fonts.images);	
     function initialize() {
-
+		dataReader = new DataReader();
         WatchFace.initialize();
     }
 
     // Load your resources here
     function onLayout(dc) {
-
+		
+		dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_GREEN);
+		dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
+		
+		View.addLayer(new Background({:dc =>dc, :color => Graphics.COLOR_WHITE, :id => :background}));
+		
     	var timeWidget = new SimpleWidget(
     		{
     			:dc => dc,
@@ -23,46 +28,52 @@ class LowEnergyFace2View extends WatchUi.WatchFace {
     			:yParent => dc,
     			:x => :center,
     			:y => :center,
-    			:font => Graphics.FONT_NUMBER_HOT,
-    			:value => "23:59:59",
+    			:font => Graphics.FONT_NUMBER_THAI_HOT,
+    			:maxLongValue => "23:59",
+    			:method => dataReader.method(:time),
     			:color => Graphics.COLOR_BLACK,
     			:backgroundColor => Graphics.COLOR_WHITE,
     			:id => :time
     		}
     	);
     	View.addLayer(timeWidget);
-    	
-    	var top = new SimpleWidget(
-    		{
-    			:dc => dc,
-    			:xParent => timeWidget,
-    			:yParent => timeWidget,
-    			:x => :right,
-    			:y => :bottomThan,
-    			:font => Graphics.FONT_SMALL,
-    			:value => "23:59:59",
-    			:color => Graphics.COLOR_WHITE,
-    			:backgroundColor => Graphics.COLOR_BLACK,
-    			:id => :top
-    		}
-    	);
-    	View.addLayer(top);
 
-    	var topRight = new SimpleWidget(
+    	var dateWidget = new SimpleWidget(
     		{
     			:dc => dc,
-    			:xParent => top,
-    			:yParent => top,
-    			:x => :leftThan,
-    			:y => :bottomThan,
-    			:font => Graphics.FONT_SMALL,
-    			:value => "23:59:59",
-    			:color => Graphics.COLOR_WHITE,
-    			:backgroundColor => Graphics.COLOR_BLACK,
-    			:id => :topRight
+    			:xParent => dc,
+    			:yParent => timeWidget,
+    			:x => :center,
+    			:y => :topThan,
+    			:font => Graphics.FONT_SYSTEM_XTINY,
+    			:maxLongValue => dataReader.date()[:string],
+    			:method => dataReader.method(:date),
+    			:color => Graphics.COLOR_BLACK,
+    			:backgroundColor => Graphics.COLOR_WHITE,
+    			:id => :time
     		}
     	);
-    	View.addLayer(topRight);
+    	View.addLayer(dateWidget);
+    	
+    	var maxLongValue = "9999";
+//    	var f1 = new DecorWidget(
+//    		{
+//    			:dc => dc,
+//    			:xParent => timeWidget,
+//    			:yParent => timeWidget,
+//    			:x => :left,
+//    			:y => :bottomThan,
+//    			:yOffset => 5,
+//    			:font => Graphics.FONT_SYSTEM_XTINY,
+//    			//:imageFont => imageFont,
+//    			:maxLongValue => maxLongValue,
+//    			:method => dataReader.method(:heartRate),
+//    			:color => Graphics.COLOR_BLACK,
+//    			:backgroundColor => Graphics.COLOR_WHITE,
+//    			:id => :f1
+//    		}
+//    	);
+//    	View.addLayer(f1);
 
     }
 
@@ -79,13 +90,7 @@ class LowEnergyFace2View extends WatchUi.WatchFace {
 		var layers = View.getLayers();
 
 		for (var i = 0; i < layers.size(); i++){
-			if (layers[i].getId() == :time){
-				var clockTime = System.getClockTime();
-				var timeString = clockTime.hour.format("%02d")+":"+clockTime.min.format("%02d")+":"+clockTime.sec.format("%02d");
-				layers[i].draw({:text => timeString});
-			}else{
-				layers[i].draw({:text => "1234567"});			
-			}
+			layers[i].draw();
 		}
         View.onUpdate(dc);
     }

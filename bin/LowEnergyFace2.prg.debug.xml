@@ -1,217 +1,630 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="22" pc="268435456" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="24" pc="268435460" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="25" pc="268435474" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="26" pc="268435493" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="27" pc="268435578" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="29" pc="268435628" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="3" lineNum="33" pc="268435643" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="109" pc="268436650" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="110" pc="268436654" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="111" pc="268436666" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="112" pc="268436678" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="113" pc="268436691" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="114" pc="268436723" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="115" pc="268436736" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="122" pc="268436838" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="5" lineNum="123" pc="268436862" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="6" lineNum="133" pc="268436935" symbol="border"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="6" lineNum="134" pc="268436939" symbol="border"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="6" lineNum="135" pc="268436952" symbol="border"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="6" lineNum="136" pc="268436984" symbol="border"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="7" lineNum="139" pc="268437029" symbol="clearField"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="7" lineNum="140" pc="268437033" symbol="clearField"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="7" lineNum="141" pc="268437046" symbol="clearField"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="7" lineNum="142" pc="268437078" symbol="clearField"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="8" lineNum="145" pc="268437123" symbol="setViewParams"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="8" lineNum="146" pc="268437127" symbol="setViewParams"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="8" lineNum="147" pc="268437143" symbol="setViewParams"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="8" lineNum="148" pc="268437159" symbol="setViewParams"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="9" lineNum="151" pc="268437176" symbol="getX0"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="9" lineNum="152" pc="268437180" symbol="getX0"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="10" lineNum="155" pc="268437193" symbol="getX1"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="10" lineNum="156" pc="268437197" symbol="getX1"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="11" lineNum="159" pc="268437219" symbol="getY0"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="11" lineNum="160" pc="268437223" symbol="getY0"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="12" lineNum="163" pc="268437236" symbol="getY1"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="12" lineNum="164" pc="268437240" symbol="getY1"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="13" lineNum="167" pc="268437262" symbol="getWidth"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="13" lineNum="168" pc="268437266" symbol="getWidth"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="14" lineNum="171" pc="268437276" symbol="getHeight"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="14" lineNum="172" pc="268437280" symbol="getHeight"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="16" lineNum="6" pc="268437290" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="16" lineNum="7" pc="268437294" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="17" lineNum="11" pc="268437313" symbol="onStart"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="18" lineNum="15" pc="268437318" symbol="onStop"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="19" lineNum="19" pc="268437323" symbol="getInitialView"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="19" lineNum="20" pc="268437327" symbol="getInitialView"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="20" lineNum="24" pc="268437365" symbol="onSettingsChanged"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="20" lineNum="25" pc="268437369" symbol="onSettingsChanged"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="22" lineNum="7" pc="268437386" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="22" lineNum="8" pc="268437390" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="22" lineNum="12" pc="268437411" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="23" lineNum="15" pc="268437432" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="23" lineNum="17" pc="268437436" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="23" lineNum="18" pc="268437489" symbol="draw"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="25" lineNum="11" pc="268437502" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="25" lineNum="13" pc="268437506" symbol="initialize"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="17" pc="268437525" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="19" pc="268437529" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="33" pc="268437701" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="35" pc="268437721" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="49" pc="268437893" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="51" pc="268437913" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="26" lineNum="65" pc="268438085" symbol="onLayout"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="27" lineNum="72" pc="268438106" symbol="onShow"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="76" pc="268438111" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="79" pc="268438115" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="81" pc="268438134" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="82" pc="268438158" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="83" pc="268438181" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="84" pc="268438198" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="85" pc="268438280" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="87" pc="268438314" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="28" lineNum="90" pc="268438361" symbol="onUpdate"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="29" lineNum="96" pc="268438382" symbol="onHide"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="30" lineNum="100" pc="268438387" symbol="onExitSleep"/>
-        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="31" lineNum="104" pc="268438392" symbol="onEnterSleep"/>
-        <entry filename="Rez" id="37" lineNum="15" pc="268438397" symbol="WatchFace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="9" pc="268435456" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="12" pc="268435468" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="15" pc="268435505" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="16" pc="268435512" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="17" pc="268435519" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="20" pc="268435523" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="21" pc="268435533" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="22" pc="268435543" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="24" pc="268435553" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="25" pc="268435557" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="26" pc="268435561" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="27" pc="268435565" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="28" pc="268435569" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="29" pc="268435573" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="30" pc="268435577" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="31" pc="268435581" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="34" pc="268435585" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="35" pc="268435613" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="36" pc="268435623" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="37" pc="268435634" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="39" pc="268435647" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="40" pc="268435672" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="41" pc="268435697" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="43" pc="268435743" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="44" pc="268435759" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="45" pc="268435770" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="49" pc="268435780" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="50" pc="268435807" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="3" lineNum="52" pc="268435817" symbol="moonPhase"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="4" lineNum="56" pc="268435830" symbol="normalize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="4" lineNum="58" pc="268435842" symbol="normalize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="4" lineNum="59" pc="268435858" symbol="normalize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="4" lineNum="60" pc="268435869" symbol="normalize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="4" lineNum="62" pc="268435882" symbol="normalize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="65" pc="268435886" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="66" pc="268435898" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="67" pc="268435905" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="68" pc="268435920" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="69" pc="268435933" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="70" pc="268435933" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="71" pc="268435940" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="72" pc="268435951" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="74" pc="268435961" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="76" pc="268435981" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="77" pc="268435991" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="78" pc="268436020" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="80" pc="268436038" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="5" lineNum="81" pc="268436045" symbol="stringReplace"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="84" pc="268436049" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="86" pc="268436061" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="87" pc="268436092" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="95" pc="268436157" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="96" pc="268436194" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="98" pc="268436223" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="100" pc="268436234" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="101" pc="268436238" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="102" pc="268436249" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="110" pc="268436326" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="6" lineNum="113" pc="268436377" symbol="weekOfYear"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="7" lineNum="125" pc="268436459" symbol="min"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="7" lineNum="126" pc="268436471" symbol="min"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="7" lineNum="127" pc="268436479" symbol="min"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="7" lineNum="129" pc="268436485" symbol="min"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="8" lineNum="133" pc="268436489" symbol="max"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="8" lineNum="134" pc="268436501" symbol="max"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="8" lineNum="135" pc="268436509" symbol="max"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Tools.mc" id="8" lineNum="137" pc="268436515" symbol="max"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="10" lineNum="12" pc="268436519" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="10" lineNum="13" pc="268436523" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="11" lineNum="16" pc="268436536" symbol="clearCash"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="11" lineNum="17" pc="268436540" symbol="clearCash"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="12" lineNum="20" pc="268436555" symbol="time"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="12" lineNum="21" pc="268436559" symbol="time"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="12" lineNum="22" pc="268436567" symbol="time"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="12" lineNum="23" pc="268436584" symbol="time"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="12" lineNum="24" pc="268436615" symbol="time"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="12" lineNum="25" pc="268436674" symbol="time"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="28" pc="268436678" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="29" pc="268436682" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="30" pc="268436699" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="32" pc="268436730" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="33" pc="268436784" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="35" pc="268436802" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="36" pc="268436833" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="43" pc="268436898" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="44" pc="268436913" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="45" pc="268436945" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="46" pc="268436977" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="47" pc="268437000" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="48" pc="268437010" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="49" pc="268437021" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="50" pc="268437053" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="51" pc="268437064" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="54" pc="268437096" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="55" pc="268437103" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="56" pc="268437148" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="57" pc="268437176" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="58" pc="268437204" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="59" pc="268437238" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="60" pc="268437272" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="61" pc="268437320" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="62" pc="268437368" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="63" pc="268437402" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="64" pc="268437464" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="66" pc="268437498" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="13" lineNum="67" pc="268437544" symbol="date"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="70" pc="268437560" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="71" pc="268437564" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="72" pc="268437571" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="73" pc="268437588" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="74" pc="268437595" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="75" pc="268437606" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="78" pc="268437622" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="79" pc="268437629" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="80" pc="268437646" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="81" pc="268437669" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="82" pc="268437725" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="83" pc="268437732" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="84" pc="268437745" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="85" pc="268437752" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="86" pc="268437765" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\DataReader.mc" id="14" lineNum="94" pc="268437793" symbol="heartRate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="7" pc="268437843" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="8" pc="268437847" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="9" pc="268437861" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="11" pc="268437952" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="12" pc="268437989" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="13" pc="268438056" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="14" pc="268438091" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="16" lineNum="16" pc="268438141" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="17" lineNum="19" pc="268438162" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="17" lineNum="21" pc="268438166" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="24" pc="268438187" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="26" pc="268438191" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="27" pc="268438210" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="28" pc="268438230" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="30" pc="268438234" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="33" pc="268438246" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="34" pc="268438271" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="35" pc="268438284" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="36" pc="268438316" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="18" lineNum="43" pc="268438403" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="69" pc="268438426" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="71" pc="268438430" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="73" pc="268438444" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="74" pc="268438461" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="76" pc="268438555" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="77" pc="268438572" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="80" pc="268438616" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="20" lineNum="81" pc="268438631" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="154" pc="268439638" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="156" pc="268439642" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="158" pc="268439658" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="159" pc="268439670" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="161" pc="268439683" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="162" pc="268439715" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="163" pc="268439740" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="164" pc="268439780" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="171" pc="268439867" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="172" pc="268439891" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="179" pc="268439951" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="22" lineNum="180" pc="268439975" symbol="drawTextValue"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="23" lineNum="190" pc="268440073" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="23" lineNum="191" pc="268440077" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="23" lineNum="193" pc="268440096" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="23" lineNum="194" pc="268440116" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="23" lineNum="196" pc="268440120" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="23" lineNum="197" pc="268440132" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="24" lineNum="201" pc="268440152" symbol="border"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="24" lineNum="202" pc="268440156" symbol="border"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="24" lineNum="203" pc="268440169" symbol="border"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="24" lineNum="204" pc="268440201" symbol="border"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="25" lineNum="207" pc="268440246" symbol="clearField"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="25" lineNum="208" pc="268440250" symbol="clearField"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="25" lineNum="209" pc="268440263" symbol="clearField"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="25" lineNum="210" pc="268440295" symbol="clearField"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="26" lineNum="213" pc="268440340" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="26" lineNum="214" pc="268440344" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="26" lineNum="215" pc="268440360" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="26" lineNum="216" pc="268440376" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="26" lineNum="217" pc="268440392" symbol="setViewParams"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="27" lineNum="220" pc="268440409" symbol="getX0"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="27" lineNum="221" pc="268440413" symbol="getX0"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="28" lineNum="224" pc="268440426" symbol="getX1"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="28" lineNum="225" pc="268440430" symbol="getX1"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="29" lineNum="228" pc="268440452" symbol="getY0"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="29" lineNum="229" pc="268440456" symbol="getY0"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="30" lineNum="232" pc="268440469" symbol="getY1"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="30" lineNum="233" pc="268440473" symbol="getY1"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="31" lineNum="236" pc="268440495" symbol="getWidth"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="31" lineNum="237" pc="268440499" symbol="getWidth"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="32" lineNum="240" pc="268440509" symbol="getHeight"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Widgets.mc" id="32" lineNum="241" pc="268440513" symbol="getHeight"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="34" lineNum="6" pc="268440523" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="34" lineNum="7" pc="268440527" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="35" lineNum="11" pc="268440546" symbol="onStart"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="36" lineNum="15" pc="268440551" symbol="onStop"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="37" lineNum="19" pc="268440556" symbol="getInitialView"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="37" lineNum="20" pc="268440560" symbol="getInitialView"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="38" lineNum="24" pc="268440598" symbol="onSettingsChanged"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2App.mc" id="38" lineNum="25" pc="268440602" symbol="onSettingsChanged"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="40" lineNum="82" pc="268440619" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="40" lineNum="83" pc="268440623" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="40" lineNum="84" pc="268440632" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="41" lineNum="87" pc="268440642" symbol="fromJulian"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="41" lineNum="88" pc="268440646" symbol="fromJulian"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="42" lineNum="91" pc="268440700" symbol="round"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="42" lineNum="92" pc="268440704" symbol="round"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="42" lineNum="93" pc="268440715" symbol="round"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="42" lineNum="95" pc="268440745" symbol="round"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="100" pc="268440773" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="101" pc="268440777" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="102" pc="268440792" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="103" pc="268440823" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="105" pc="268440865" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="106" pc="268440908" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="107" pc="268440936" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="108" pc="268440967" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="109" pc="268441070" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="110" pc="268441110" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="111" pc="268441147" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="112" pc="268441199" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="113" pc="268441254" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="114" pc="268441264" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="117" pc="268441277" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="118" pc="268441291" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="121" pc="268441314" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="123" pc="268441426" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="124" pc="268441451" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="127" pc="268441456" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="129" pc="268441511" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="130" pc="268441554" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="131" pc="268441568" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="134" pc="268441585" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="43" lineNum="136" pc="268441607" symbol="calculate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="143" pc="268441681" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="144" pc="268441685" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="145" pc="268441700" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="146" pc="268441710" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="147" pc="268441720" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="148" pc="268441730" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="149" pc="268441747" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="150" pc="268441764" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="151" pc="268441806" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="153" pc="268441848" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="154" pc="268441895" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\SunEvents.mc" id="45" lineNum="155" pc="268441937" symbol="fillCache"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="47" lineNum="9" pc="268441980" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="47" lineNum="11" pc="268441984" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="47" lineNum="12" pc="268442009" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="47" lineNum="13" pc="268442034" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="47" lineNum="14" pc="268442050" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="48" lineNum="27" pc="268442159" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="48" lineNum="28" pc="268442163" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="48" lineNum="29" pc="268442176" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\Background.mc" id="48" lineNum="30" pc="268442208" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="50" lineNum="7" pc="268442247" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="50" lineNum="8" pc="268442251" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="50" lineNum="12" pc="268442272" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="51" lineNum="15" pc="268442293" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="51" lineNum="17" pc="268442297" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2Background.mc" id="51" lineNum="18" pc="268442350" symbol="draw"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="53" lineNum="11" pc="268442363" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="53" lineNum="12" pc="268442367" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="53" lineNum="13" pc="268442397" symbol="initialize"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="17" pc="268442416" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="19" pc="268442420" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="20" pc="268442456" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="22" pc="268442500" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="24" pc="268442589" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="39" pc="268442791" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="41" pc="268442811" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="56" pc="268443031" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="54" lineNum="58" pc="268443051" symbol="onLayout"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="55" lineNum="83" pc="268443059" symbol="onShow"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="56" lineNum="87" pc="268443064" symbol="onUpdate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="56" lineNum="90" pc="268443068" symbol="onUpdate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="56" lineNum="92" pc="268443087" symbol="onUpdate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="56" lineNum="93" pc="268443111" symbol="onUpdate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="56" lineNum="95" pc="268443139" symbol="onUpdate"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="57" lineNum="101" pc="268443160" symbol="onHide"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="58" lineNum="105" pc="268443165" symbol="onExitSleep"/>
+        <entry filename="E:\\eclipse-workspace\\LowEnergyFace2\\LowEnergyFace2\\source\\LowEnergyFace2View.mc" id="59" lineNum="109" pc="268443170" symbol="onEnterSleep"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="8388644" module="true" symbol="System"/>
-        <entry id="40" symbol="xParent"/>
-        <entry id="54" symbol="targetDc"/>
-        <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="10" object="true" symbol="LowEnergyFace2App"/>
-        <entry id="9" object="true" symbol="SimpleWidget"/>
-        <entry field="true" id="16" symbol="ColorBlue"/>
-        <entry id="49" symbol="bottom"/>
-        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="48" symbol="topThan"/>
-        <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry id="44" symbol="rightThan"/>
-        <entry field="true" id="23" symbol="ColorWhite"/>
-        <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry id="8389068" method="true" symbol="draw"/>
-        <entry id="8389377" method="true" symbol="onExitSleep"/>
-        <entry id="8388640" module="true" symbol="Lang"/>
-        <entry id="52" symbol="yOffset"/>
-        <entry field="true" id="28" symbol="&lt;globals/SimpleWidget/&lt;&gt;backgroundColor&gt;"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="25" symbol="&lt;globals/SimpleWidget/&lt;&gt;width&gt;"/>
-        <entry id="45" symbol="center"/>
-        <entry field="true" id="22" symbol="ColorBlack"/>
-        <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="8389123" method="true" symbol="onShow"/>
-        <entry id="8389117" method="true" symbol="getWidth"/>
-        <entry field="true" id="17" symbol="ColorRed"/>
-        <entry id="46" symbol="yParent"/>
-        <entry id="33" method="true" symbol="setViewParams"/>
-        <entry field="true" id="18" symbol="ForegroundColorTitle"/>
-        <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="24" symbol="AppName"/>
-        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-        <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="95" symbol="imageString"/>
+        <entry id="37" method="true" symbol="drawTextValue"/>
+        <entry field="true" id="53" symbol="images"/>
+        <entry id="109" symbol="bottomThan"/>
+        <entry field="true" id="34" symbol="justify"/>
+        <entry id="46" method="true" symbol="normalize"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry id="50" symbol="bottomThan"/>
-        <entry id="37" method="true" symbol="getY1"/>
-        <entry id="36" method="true" symbol="getY0"/>
+        <entry field="true" id="73" symbol="PI2"/>
+        <entry field="true" id="23" symbol="GOLDEN_HOUR_PM"/>
+        <entry field="true" id="66" symbol="cash"/>
+        <entry field="true" id="58" symbol="ColorRed"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry field="true" id="8388938" symbol="month"/>
+        <entry field="true" id="35" symbol="oldValue"/>
+        <entry field="true" id="21" symbol="GOLDEN_HOUR_AM"/>
+        <entry field="true" id="62" symbol="MilitaryFormatTitle"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="29" symbol="NIGHT"/>
+        <entry field="true" id="71" symbol="imageFont"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="75" symbol="J1970"/>
+        <entry field="true" id="57" symbol="ColorBlue"/>
+        <entry field="true" id="78" symbol="TIMES"/>
+        <entry field="true" id="65" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="69" method="true" symbol="date"/>
+        <entry id="106" symbol="top"/>
+        <entry id="107" symbol="topThan"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry field="true" id="84" symbol="sinM"/>
+        <entry id="8388947" method="true" symbol="value"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry id="35" method="true" symbol="getX1"/>
-        <entry id="34" method="true" symbol="getX0"/>
-        <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="27" symbol="&lt;globals/SimpleWidget/&lt;&gt;font&gt;"/>
-        <entry id="47" symbol="top"/>
+        <entry field="true" id="19" symbol="SUNRISE"/>
+        <entry id="108" symbol="bottom"/>
+        <entry id="8389117" method="true" symbol="getWidth"/>
+        <entry id="110" symbol="xOffset"/>
+        <entry field="true" id="15" symbol="NIGHT_END"/>
+        <entry field="true" id="28" symbol="NAUTICAL_DUSK"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="14" object="true" symbol="LowEnergyFace2App"/>
+        <entry id="48" method="true" symbol="weekOfYear"/>
+        <entry id="8389719" method="true" symbol="round"/>
+        <entry id="104" symbol="center"/>
+        <entry id="94" symbol="string"/>
+        <entry field="true" id="8388721" method="true" symbol="min"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="56" symbol="topRight"/>
-        <entry field="true" id="20" symbol="ColorDarkGray"/>
-        <entry id="8389279" method="true" symbol="onStart"/>
-        <entry id="53" symbol="justify"/>
-        <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry id="32" method="true" symbol="clearField"/>
-        <entry id="11" object="true" symbol="LowEnergyFace2View"/>
-        <entry id="8389348" symbol="font"/>
-        <entry id="41" symbol="left"/>
-        <entry field="true" id="15" symbol="ColorLightGray"/>
-        <entry id="31" method="true" symbol="border"/>
-        <entry id="43" symbol="right"/>
-        <entry field="true" id="8389743" symbol="backgroundColor"/>
-        <entry id="8389347" symbol="color"/>
-        <entry field="true" id="19" symbol="BackgroundColorTitle"/>
-        <entry id="8388947" method="true" symbol="value"/>
+        <entry field="true" id="8389348" symbol="font"/>
         <entry field="true" id="8389067" symbol="height"/>
-        <entry id="55" symbol="time"/>
-        <entry id="12" module="true" symbol="Layouts"/>
-        <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="21" symbol="MilitaryFormatTitle"/>
-        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry id="8389346" symbol="text"/>
+        <entry id="51" module="true" symbol="Menus"/>
+        <entry field="true" id="61" symbol="ColorDarkGray"/>
+        <entry field="true" id="26" symbol="BLUE_HOUR_PM"/>
+        <entry field="true" id="70" symbol="dataReader"/>
         <entry field="true" id="8389066" symbol="width"/>
+        <entry id="12" object="true" symbol="DecorWidget"/>
+        <entry id="103" symbol="rightThan"/>
+        <entry id="8391445" symbol="visibility"/>
+        <entry id="49" method="true" symbol="max"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="10" module="true" symbol="Tools"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="55" symbol="moon"/>
+        <entry id="98" symbol="id"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="29" symbol="&lt;globals/SimpleWidget/&lt;&gt;color&gt;"/>
-        <entry id="13" module="true" symbol="Menus"/>
-        <entry id="39" symbol="id"/>
-        <entry id="38" symbol="dc"/>
+        <entry id="68" method="true" symbol="time"/>
+        <entry field="true" id="16" symbol="NAUTICAL_DAWN"/>
+        <entry field="true" id="82" symbol="ds"/>
+        <entry id="96" symbol="dc"/>
+        <entry field="true" id="18" symbol="BLUE_HOUR_AM"/>
+        <entry field="true" id="27" symbol="DUSK"/>
+        <entry field="true" id="64" symbol="ColorWhite"/>
+        <entry id="97" symbol="maxLongValue"/>
+        <entry field="true" id="8389892" symbol="background"/>
+        <entry field="true" id="25" symbol="SUNSET"/>
+        <entry field="true" id="63" symbol="ColorBlack"/>
+        <entry id="90" method="true" symbol="fromJulian"/>
+        <entry field="true" id="8389306" symbol="lon"/>
+        <entry id="99" symbol="xParent"/>
+        <entry id="101" symbol="leftThan"/>
+        <entry id="93" method="true" symbol="fillCache"/>
+        <entry field="true" id="87" symbol="sin2L"/>
+        <entry id="8389809" symbol="order"/>
+        <entry id="13" object="true" symbol="SimpleWidget"/>
+        <entry id="8389116" method="true" symbol="getHeight"/>
+        <entry id="38" method="true" symbol="border"/>
+        <entry field="true" id="8388893" symbol="PI"/>
+        <entry field="true" id="30" symbol="NUM_RESULTS"/>
+        <entry field="true" id="79" symbol="lastD"/>
+        <entry id="111" symbol="yOffset"/>
+        <entry field="true" id="8389305" symbol="lat"/>
+        <entry field="true" id="74" symbol="DAYS"/>
+        <entry field="true" id="17" symbol="DAWN"/>
+        <entry field="true" id="8388786" method="true" symbol="method"/>
+        <entry id="40" method="true" symbol="setViewParams"/>
+        <entry field="true" id="77" symbol="J0"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="91" method="true" symbol="calculate"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="47" method="true" symbol="stringReplace"/>
+        <entry field="true" id="80" symbol="lastLng"/>
+        <entry field="true" id="89" symbol="Jnoon"/>
+        <entry id="11" object="true" symbol="DataReader"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="39" method="true" symbol="clearField"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="102" symbol="right"/>
+        <entry id="33" object="true" symbol="LowEnergyFace2View"/>
+        <entry field="true" id="52" symbol="LauncherIcon"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="60" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="8388960" method="true" symbol="heartRate"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="105" symbol="yParent"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389808" symbol="period"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="24" symbol="SUNSET_START"/>
+        <entry id="92" method="true" symbol="&lt;globals/SunCalc/&lt;&gt;getDay&gt;"/>
+        <entry field="true" id="76" symbol="J2000"/>
+        <entry field="true" id="8388747" symbol="currentHeartRate"/>
+        <entry field="true" id="56" symbol="ColorLightGray"/>
+        <entry id="67" method="true" symbol="clearCash"/>
+        <entry field="true" id="88" symbol="dec"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="72" symbol="RAD"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry field="true" id="20" symbol="SUNRISE_END"/>
+        <entry id="45" method="true" symbol="moonPhase"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
+        <entry id="36" method="true" symbol="&lt;globals/SimpleWidget/&lt;&gt;coord&gt;"/>
+        <entry id="44" method="true" symbol="getY1"/>
+        <entry id="43" method="true" symbol="getY0"/>
+        <entry id="42" method="true" symbol="getX1"/>
+        <entry id="41" method="true" symbol="getX0"/>
+        <entry field="true" id="59" symbol="ForegroundColorTitle"/>
+        <entry field="true" id="8388940" symbol="year"/>
+        <entry id="50" module="true" symbol="Layouts"/>
+        <entry id="100" symbol="left"/>
+        <entry field="true" id="54" symbol="weather"/>
+        <entry field="true" id="8389743" symbol="backgroundColor"/>
+        <entry id="31" object="true" symbol="SunCalc"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="32" object="true" symbol="BackGround"/>
+        <entry field="true" id="22" symbol="NOON"/>
+        <entry id="8388635" module="true" symbol="Application"/>
         <entry field="true" id="8390079" symbol="y"/>
         <entry field="true" id="8390078" symbol="x"/>
-        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry id="51" symbol="xOffset"/>
-        <entry id="8391445" symbol="visibility"/>
-        <entry id="30" method="true" symbol="&lt;globals/SimpleWidget/&lt;&gt;coord&gt;"/>
-        <entry id="8389116" method="true" symbol="getHeight"/>
-        <entry field="true" id="26" symbol="&lt;globals/SimpleWidget/&lt;&gt;height&gt;"/>
-        <entry id="8388635" module="true" symbol="Application"/>
-        <entry id="42" symbol="leftThan"/>
+        <entry field="true" id="81" symbol="n"/>
+        <entry field="true" id="83" symbol="M"/>
+        <entry field="true" id="86" symbol="L"/>
+        <entry field="true" id="85" symbol="C"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435757" name="longText" stackId="2" startPc="268435460"/>
-        <entry endPc="268435757" name="coord" stackId="3" startPc="268435460"/>
-        <entry endPc="268435758" name="param" stackId="1" startPc="268435456"/>
-        <entry endPc="268436649" name="parentCoord" stackId="3" startPc="268435762"/>
-        <entry endPc="268436649" name="coord" stackId="2" startPc="268435762"/>
-        <entry endPc="268436650" name="param" stackId="1" startPc="268435758"/>
-        <entry endPc="268436934" name="targetDc" stackId="2" startPc="268436654"/>
-        <entry endPc="268436935" name="param" stackId="1" startPc="268436650"/>
-        <entry endPc="268437028" name="targetDc" stackId="1" startPc="268436939"/>
-        <entry endPc="268437122" name="targetDc" stackId="1" startPc="268437033"/>
-        <entry endPc="268437176" name="param" stackId="1" startPc="268437123"/>
-        <entry endPc="268437318" name="state" stackId="1" startPc="268437313"/>
-        <entry endPc="268437323" name="state" stackId="1" startPc="268437318"/>
-        <entry endPc="268437431" name="dictionary" stackId="1" startPc="268437390"/>
-        <entry endPc="268437502" name="dc" stackId="1" startPc="268437432"/>
-        <entry endPc="268438105" name="topRight" stackId="4" startPc="268437529"/>
-        <entry endPc="268438105" name="top" stackId="3" startPc="268437529"/>
-        <entry endPc="268438105" name="timeWidget" stackId="2" startPc="268437529"/>
-        <entry endPc="268438106" name="dc" stackId="1" startPc="268437525"/>
-        <entry endPc="268438311" name="timeString" stackId="5" startPc="268438181"/>
-        <entry endPc="268438311" name="clockTime" stackId="4" startPc="268438181"/>
-        <entry endPc="268438361" name="i" stackId="3" startPc="268438158"/>
-        <entry endPc="268438381" name="layers" stackId="2" startPc="268438115"/>
-        <entry endPc="268438382" name="dc" stackId="1" startPc="268438111"/>
-        <entry endPc="268438410" name="dc" stackId="1" startPc="268438397"/>
+        <entry endPc="268435829" name="M1" stackId="7" startPc="268435468"/>
+        <entry endPc="268435829" name="K11" stackId="11" startPc="268435468"/>
+        <entry endPc="268435829" name="D1" stackId="8" startPc="268435468"/>
+        <entry endPc="268435829" name="date" stackId="2" startPc="268435468"/>
+        <entry endPc="268435829" name="YY1" stackId="9" startPc="268435468"/>
+        <entry endPc="268435829" name="AG1" stackId="17" startPc="268435468"/>
+        <entry endPc="268435829" name="JD1" stackId="14" startPc="268435468"/>
+        <entry endPc="268435829" name="AG" stackId="5" startPc="268435468"/>
+        <entry endPc="268435829" name="K31" stackId="13" startPc="268435468"/>
+        <entry endPc="268435829" name="f0" stackId="4" startPc="268435468"/>
+        <entry endPc="268435829" name="n0" stackId="3" startPc="268435468"/>
+        <entry endPc="268435829" name="K21" stackId="12" startPc="268435468"/>
+        <entry endPc="268435829" name="DP1" stackId="16" startPc="268435468"/>
+        <entry endPc="268435829" name="MM1" stackId="10" startPc="268435468"/>
+        <entry endPc="268435829" name="IP1" stackId="15" startPc="268435468"/>
+        <entry endPc="268435829" name="Y1" stackId="6" startPc="268435468"/>
+        <entry endPc="268435830" name="now" stackId="1" startPc="268435456"/>
+        <entry endPc="268435886" name="v" stackId="1" startPc="268435830"/>
+        <entry endPc="268436048" name="len" stackId="6" startPc="268435898"/>
+        <entry endPc="268436048" name="res" stackId="4" startPc="268435898"/>
+        <entry endPc="268436048" name="ind" stackId="5" startPc="268435898"/>
+        <entry endPc="268436048" name="first" stackId="7" startPc="268435898"/>
+        <entry endPc="268436049" name="replace" stackId="3" startPc="268435886"/>
+        <entry endPc="268436049" name="find" stackId="2" startPc="268435886"/>
+        <entry endPc="268436049" name="str" stackId="1" startPc="268435886"/>
+        <entry endPc="268436374" name="beginMoment" stackId="5" startPc="268436234"/>
+        <entry endPc="268436458" name="jan1DayOfWeek" stackId="4" startPc="268436061"/>
+        <entry endPc="268436458" name="jan1" stackId="3" startPc="268436061"/>
+        <entry endPc="268436458" name="momentInfo" stackId="2" startPc="268436061"/>
+        <entry endPc="268436459" name="moment" stackId="1" startPc="268436049"/>
+        <entry endPc="268436489" name="b" stackId="2" startPc="268436459"/>
+        <entry endPc="268436489" name="a" stackId="1" startPc="268436459"/>
+        <entry endPc="268436519" name="b" stackId="2" startPc="268436489"/>
+        <entry endPc="268436519" name="a" stackId="1" startPc="268436489"/>
+        <entry endPc="268436677" name="res" stackId="1" startPc="268436559"/>
+        <entry endPc="268436677" name="clockTime" stackId="2" startPc="268436559"/>
+        <entry endPc="268437559" name="weekFromFirstDay" stackId="7" startPc="268436682"/>
+        <entry endPc="268437559" name="dur" stackId="5" startPc="268436682"/>
+        <entry endPc="268437559" name="now" stackId="1" startPc="268436682"/>
+        <entry endPc="268437559" name="dayOfWeek" stackId="9" startPc="268436682"/>
+        <entry endPc="268437559" name="todayShort" stackId="3" startPc="268436682"/>
+        <entry endPc="268437559" name="firstDayOfWeekSettings" stackId="8" startPc="268436682"/>
+        <entry endPc="268437559" name="firstDayOfYear" stackId="4" startPc="268436682"/>
+        <entry endPc="268437559" name="today" stackId="2" startPc="268436682"/>
+        <entry endPc="268437559" name="dateString" stackId="10" startPc="268436682"/>
+        <entry endPc="268437559" name="dayOfYear" stackId="6" startPc="268436682"/>
+        <entry endPc="268437781" name="sample" stackId="4" startPc="268437732"/>
+        <entry endPc="268437784" name="iter" stackId="3" startPc="268437669"/>
+        <entry endPc="268437842" name="value" stackId="1" startPc="268437564"/>
+        <entry endPc="268437842" name="info" stackId="2" startPc="268437564"/>
+        <entry endPc="268438161" name="imageHeight" stackId="3" startPc="268437847"/>
+        <entry endPc="268438161" name="imageFont" stackId="2" startPc="268437847"/>
+        <entry endPc="268438162" name="param" stackId="1" startPc="268437843"/>
+        <entry endPc="268438187" name="param" stackId="1" startPc="268438162"/>
+        <entry endPc="268438425" name="targetDc" stackId="3" startPc="268438191"/>
+        <entry endPc="268438425" name="arrayValues" stackId="1" startPc="268438191"/>
+        <entry endPc="268438425" name="y" stackId="2" startPc="268438191"/>
+        <entry endPc="268438745" name="coord" stackId="2" startPc="268438430"/>
+        <entry endPc="268438746" name="param" stackId="1" startPc="268438426"/>
+        <entry endPc="268439637" name="parentCoord" stackId="3" startPc="268438750"/>
+        <entry endPc="268439637" name="coord" stackId="2" startPc="268438750"/>
+        <entry endPc="268439638" name="param" stackId="1" startPc="268438746"/>
+        <entry endPc="268440072" name="targetDc" stackId="3" startPc="268439642"/>
+        <entry endPc="268440072" name="y" stackId="4" startPc="268439642"/>
+        <entry endPc="268440073" name="xOffset" stackId="1" startPc="268439638"/>
+        <entry endPc="268440073" name="arrayValues" stackId="2" startPc="268439638"/>
+        <entry endPc="268440151" name="arrayValues" stackId="1" startPc="268440077"/>
+        <entry endPc="268440245" name="targetDc" stackId="1" startPc="268440156"/>
+        <entry endPc="268440339" name="targetDc" stackId="1" startPc="268440250"/>
+        <entry endPc="268440409" name="param" stackId="1" startPc="268440340"/>
+        <entry endPc="268440551" name="state" stackId="1" startPc="268440546"/>
+        <entry endPc="268440556" name="state" stackId="1" startPc="268440551"/>
+        <entry endPc="268440700" name="j" stackId="1" startPc="268440642"/>
+        <entry endPc="268440773" name="a" stackId="1" startPc="268440700"/>
+        <entry endPc="268441621" name="x" stackId="6" startPc="268440777"/>
+        <entry endPc="268441621" name="ds" stackId="7" startPc="268440777"/>
+        <entry endPc="268441621" name="Jrise" stackId="9" startPc="268440777"/>
+        <entry endPc="268441621" name="Jset" stackId="8" startPc="268440777"/>
+        <entry endPc="268441621" name="d" stackId="5" startPc="268440777"/>
+        <entry endPc="268441622" name="lng" stackId="3" startPc="268440773"/>
+        <entry endPc="268441622" name="what" stackId="4" startPc="268440773"/>
+        <entry endPc="268441622" name="lat" stackId="2" startPc="268440773"/>
+        <entry endPc="268441622" name="moment" stackId="1" startPc="268440773"/>
+        <entry endPc="268441681" name="moment" stackId="1" startPc="268441622"/>
+        <entry endPc="268441979" name="d" stackId="5" startPc="268441685"/>
+        <entry endPc="268441980" name="cache" stackId="1" startPc="268441681"/>
+        <entry endPc="268441980" name="lat" stackId="3" startPc="268441681"/>
+        <entry endPc="268441980" name="moment" stackId="2" startPc="268441681"/>
+        <entry endPc="268441980" name="lon" stackId="4" startPc="268441681"/>
+        <entry endPc="268442159" name="param" stackId="1" startPc="268441980"/>
+        <entry endPc="268442246" name="targetDC" stackId="1" startPc="268442163"/>
+        <entry endPc="268442292" name="dictionary" stackId="1" startPc="268442251"/>
+        <entry endPc="268442363" name="dc" stackId="1" startPc="268442293"/>
+        <entry endPc="268443058" name="maxLongValue" stackId="4" startPc="268442420"/>
+        <entry endPc="268443058" name="timeWidget" stackId="2" startPc="268442420"/>
+        <entry endPc="268443058" name="dateWidget" stackId="3" startPc="268442420"/>
+        <entry endPc="268443059" name="dc" stackId="1" startPc="268442416"/>
+        <entry endPc="268443139" name="i" stackId="3" startPc="268443111"/>
+        <entry endPc="268443159" name="layers" stackId="2" startPc="268443068"/>
+        <entry endPc="268443160" name="dc" stackId="1" startPc="268443064"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
-        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="166" parentId="globals" symbolId="LowEnergyFace2View" type="class"/>
-        <dataEntry offset="261" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry offset="316" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="395" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="434" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="465" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="535" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="566" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="677" parentId="globals" symbolId="LowEnergyFace2App" type="class"/>
-        <dataEntry offset="756" parentId="globals" symbolId="SimpleWidget" type="class"/>
+        <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="342" parentId="globals" symbolId="SimpleWidget" type="class"/>
+        <dataEntry offset="549" parentId="globals" symbolId="Tools" type="module"/>
+        <dataEntry offset="628" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="707" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="746" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="777" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="832" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="863" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="894" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1005" parentId="globals" symbolId="DataReader" type="class"/>
+        <dataEntry offset="1092" parentId="globals" symbolId="LowEnergyFace2App" type="class"/>
+        <dataEntry offset="1171" parentId="globals" symbolId="BackGround" type="class"/>
+        <dataEntry offset="1226" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="1305" parentId="globals" symbolId="LowEnergyFace2View" type="class"/>
+        <dataEntry offset="1416" parentId="globals" symbolId="DecorWidget" type="class"/>
+        <dataEntry offset="1479" parentId="globals" symbolId="SunCalc" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
+        <functionEntry accessMode="public" name="moonPhase" parent="Tools">
+            <param id="now"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="normalize" parent="Tools">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="stringReplace" parent="Tools">
+            <param id="str"/>
+            <param id="find"/>
+            <param id="replace"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="weekOfYear" parent="Tools">
+            <param id="moment"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="min" parent="Tools">
+            <param id="a"/>
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="max" parent="Tools">
+            <param id="a"/>
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataReader">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="clearCash" parent="DataReader">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="time" parent="DataReader">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="date" parent="DataReader">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="heartRate" parent="DataReader">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DecorWidget">
+            <param id="param"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setViewParams" parent="DecorWidget">
+            <param id="param"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="DecorWidget">
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="SimpleWidget">
             <param id="param"/>
             <documentation/>
@@ -220,8 +633,12 @@
             <param id="param"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="drawTextValue" parent="SimpleWidget">
+            <param id="xOffset"/>
+            <param id="arrayValues"/>
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="draw" parent="SimpleWidget">
-            <param id="param"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="border" parent="SimpleWidget">
@@ -269,10 +686,46 @@
         <functionEntry accessMode="public" name="onSettingsChanged" parent="LowEnergyFace2App">
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="SunCalc">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="fromJulian" parent="SunCalc">
+            <param id="j"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="round" parent="SunCalc">
+            <param id="a"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calculate" parent="SunCalc">
+            <param id="moment"/>
+            <param id="lat"/>
+            <param id="lng"/>
+            <param id="what"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/SunCalc/&lt;&gt;getDay&gt;" parent="SunCalc">
+            <param id="moment"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="fillCache" parent="SunCalc">
+            <param id="cache"/>
+            <param id="moment"/>
+            <param id="lat"/>
+            <param id="lon"/>
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="Background">
+            <param id="param"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="draw" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BackGround">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="BackGround">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
@@ -297,10 +750,6 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="LowEnergyFace2View">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
-            <param id="dc"/>
             <documentation/>
         </functionEntry>
     </functions>

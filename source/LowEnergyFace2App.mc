@@ -3,7 +3,7 @@ using Toybox.WatchUi;
 
 class LowEnergyFace2App extends Application.AppBase {
 
-    function initialize() {
+	function initialize() {
         AppBase.initialize();
     }
 

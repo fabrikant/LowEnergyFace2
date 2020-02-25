@@ -2,34 +2,82 @@ using Toybox.WatchUi;
 using Toybox.Application;
 using Toybox.Graphics;
 
+class DecorWidget extends SimpleWidget{
+   	
+    function initialize(param) {
+    	setViewParams(param);
+    	height = Graphics.getFontHeight(font) - 2* (Graphics.getFontHeight(font) - Graphics.getFontAscent(font))+1;
+		//var imageFont = param[:imageFont];
+		var imageFont = Application.loadResource(Rez.Fonts.images);   	
+    	var imageHeight = Graphics.getFontHeight(imageFont) - 2* (Graphics.getFontHeight(imageFont) - Graphics.getFontAscent(imageFont))+1;
+    	height = Tools.max(height, imageHeight);
+    	width = param[:dc].getTextWidthInPixels(param[:maxLongValue], font) + height;
+    	
+    	SimpleWidget.initialize(param);
+	}
+	
+	function setViewParams(param){
+		//imageFont = param[:imageFont];
+		SimpleWidget.setViewParams(param);		
+	}
+	
+	function draw(){
+	
+		var arrayValues = method.invoke();
+		if (oldValue == arrayValues[:value]){
+			return;
+		} 
+		clearField();
+		
+		
+		var y = getHeight()/2 - 1;
+		var targetDc = getDc();
+		targetDc.setColor(color,Graphics.COLOR_TRANSPARENT);
+		targetDc.drawText(
+			0,
+			y,
+			Application.loadResource(Rez.Fonts.images),
+			arrayValues[:imageString],
+			Graphics.TEXT_JUSTIFY_LEFT | Graphics.TEXT_JUSTIFY_VCENTER
+		);
+		drawTextValue(height, arrayValues);	
+	}
+} 
+
 class SimpleWidget extends WatchUi.Layer {
 
-	private var width = 0, height = 0;
-	private var font, backgroundColor, color;
-
+	protected var width = 0, height = 0;
+	protected var font, backgroundColor, color, justify;
+	protected var method = null;
+	protected var oldValue = null;
+	
 	//param 
 	//	:font
 	//	:dc
 	//	:color
 	//	:backgroundColor
-	//	:value - text for calculating widht and height
+	//  :justify - optional
+	//	:maxLongValue - text for calculating widht and height
 	//	:xParent - dc or widget or null
 	//	:yParent - dc or widget or null
 	//	:x - num or if :parent set - :left, :leftThan, :right, :rightThan, :center
 	//	:y - num or if :parent set - :top, :bottom, :topThan, :bottomThan, :center
 	//  :xOffset - num or null
 	//  :yOffset - num or null
+	//	:method - method for calculate value
+	//
     function initialize(param) {
 
 		setViewParams(param);
-		var longText = param[:value].toString();
-		height = Graphics.getFontHeight(font) - 2* (Graphics.getFontHeight(font) - Graphics.getFontAscent(font));
-		width = param[:dc].getTextWidthInPixels(param[:value].toString(), font);
+		
+		if (height==0){
+			height = Graphics.getFontHeight(font) - 2* (Graphics.getFontHeight(font) - Graphics.getFontAscent(font))+1;
+		}
+		if (width==0){
+			width = param[:dc].getTextWidthInPixels(param[:maxLongValue], font);
+		}
 
 		var coord = coord(param);
-//		System.println("param[:id] "+param[:id]);
-//		System.println("coord "+coord[0]+":"+coord[1]);		
-		
         Layer.initialize(
         	{
         		:locX => coord[0],
@@ -102,32 +150,52 @@ class SimpleWidget extends WatchUi.Layer {
 		}
 		return coord;
 	}
+	
+	function drawTextValue(xOffset, arrayValues){
+	
+		oldValue = arrayValues[:value];
 		
-	//param
-	// :text
-	// :justify - optional
-	function draw(param){
-		clearField();
 		border();
 		var targetDc = getDc();
+		
 		targetDc.setColor(color,Graphics.COLOR_TRANSPARENT);
-		if (param[:justify] == null){
+		var y = getHeight()/2 - 1;
+		if (justify == null || justify == Graphics.TEXT_JUSTIFY_CENTER){
 			targetDc.drawText(
-				getWidth()/2 - 1,
-				getHeight()/2 - 1,
+				xOffset + (getWidth()- xOffset)/2 - 1,
+				y,
 				font,
-				param[:text],
+				arrayValues[:string],
 				Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER
 			);
-		}else if ((param[:justify] == Graphics.TEXT_JUSTIFY_LEFT)){
-			param[:targetDc].drawText(
-				0,
-				0,
+		}else if (justify == Graphics.TEXT_JUSTIFY_LEFT){
+			targetDc.drawText(
+				xOffset,
+				y,
 				font,
-				param[:text],
+				arrayValues[:string],
 				Graphics.TEXT_JUSTIFY_LEFT | Graphics.TEXT_JUSTIFY_VCENTER
 			);
+		}else if (justify == Graphics.TEXT_JUSTIFY_RIGHT){
+			targetDc.drawText(
+				getX1()-targetDc.getTextWidthInPixels(value, font),
+				y,
+				font,
+				arrayValues[:string],
+				Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER
+			);
 		}
+	}
+		
+	function draw(){
+		var arrayValues = method.invoke();
+		
+		if (oldValue == arrayValues[:value]){
+			return;
+		} 
+		clearField();
+		drawTextValue(0, arrayValues);
+				
 	}
 
 	 function border(){
@@ -146,6 +214,7 @@ class SimpleWidget extends WatchUi.Layer {
 		font = param[:font];
 		color = param[:color];
 		backgroundColor = param[:backgroundColor];
+		method = param[:method];
 	}
 	
 	function getX0(){
